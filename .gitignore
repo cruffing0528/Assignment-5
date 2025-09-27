@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+beginning/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Build output
+dist/
+build/
+beginning/dist/
+beginning/css/
+
+# Sass cache and maps
+.sass-cache/
+*.css.map
+
+# Environment files
+.env
+.env.*.local
+
+# Coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-*
+
+# Temp
+tmp/
+temp/
+
+# npm
+.npm
+
+# Misc
+*.bak
+*.swp
