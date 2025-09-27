@@ -1,0 +1,263 @@
+npm verb cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+npm info using npm@10.2.4
+npm info using node@v20.11.1
+npm verb title npm install node-sass
+npm verb argv "install" "node-sass" "--save-dev" "--loglevel" "verbose"
+npm verb logfile logs-max:10 dir:C:\Users\clairu\AppData\Local\npm-cache\_logs\2025-09-24T05_23_04_752Z-
+npm verb logfile C:\Users\clairu\AppData\Local\npm-cache\_logs\2025-09-24T05_23_04_752Z-debug-0.log
+npm verb shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+npm http fetch GET 200 https://registry.npmjs.org/node-sass 131ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/meow 32ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/lodash 34ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/node-gyp 35ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/cross-spawn 39ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/nan 44ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/stdout-stream 43ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/get-stdin 46ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/sass-graph 47ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/async-foreach 49ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/true-case-path 49ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/gaze 53ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/make-fetch-happen 50ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/which 147ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/globule 144ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/is-lambda 138ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minipass 139ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/cacache 142ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/path-key 155ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/lru-cache 145ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/shebang-command 162ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/ssri 155ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minipass-fetch 148ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/promise-retry 152ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minipass-flush 149ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/negotiator 155ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/agentkeepalive 154ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minipass-collect 151ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/https-proxy-agent 151ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/http-proxy-agent 156ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/trim-newlines 139ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/decamelize 143ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/read-pkg-up 143ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/http-cache-semantics 150ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minipass-pipeline 158ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/redent 149ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/socks-proxy-agent 159ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minimist-options 144ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/decamelize-keys 147ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/type-fest 154ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/camelcase-keys 155ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/tar 147ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/hard-rejection 159ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fminimist 159ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/normalize-package-data 157ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/rimraf 150ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/nopt 153ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/which 153ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/semver 152ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/env-paths 154ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/npmlog 157ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/scss-tokenizer 153ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/readable-stream 156ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/yargs 160ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/shebang-regex 11ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minimatch 6ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/fs-minipass 68ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/glob 72ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@tootallnate%2fonce 68ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/p-map 74ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/mkdirp 74ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/humanize-ms 78ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chownr 77ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/infer-owner 76ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/promise-inflight 75ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/encoding 64ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/unique-filename 77ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@npmcli%2ffs 79ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minizlib 67ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@npmcli%2fmove-file 79ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/agent-base 77ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/debug 77ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/retry 67ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/yallist 75ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/debug 68ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/socks 66ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/minipass-sized 75ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/err-code 71ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/agent-base 68ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/ms 7ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@gar%2fpromisify 26ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/aggregate-error 21ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/unique-slug 17ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/map-obj 54ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/camelcase 54ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/find-up 48ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/arrify 53ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/is-plain-obj 53ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/quick-lru 59ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/validate-npm-package-license 54ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/kind-of 57ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/hosted-git-info 56ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/read-pkg 58ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/strip-indent 54ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/indent-string 56ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/map-obj 65ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/gauge 19ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/set-blocking 20ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/are-we-there-yet 20ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/console-control-strings 21ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/spdx-expression-parse 9ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/spdx-correct 10ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/aproba 33ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/delegates 37ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/wide-align 38ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/has-unicode 38ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/signal-exit 38ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/color-support 38ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/clean-stack 12ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/locate-path 27ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/path-exists 28ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fnormalize-package-data 26ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/parse-json 26ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/p-locate 15ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/p-limit 12ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/p-try 13ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/lines-and-columns 20ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/error-ex 26ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@babel%2fcode-frame 25ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/json-parse-even-better-errors 25ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/picocolors 23ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@babel%2fhelper-validator-identifier 23ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/js-tokens 27ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/is-arrayish 23ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/min-indent 12ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/source-map 19ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/cliui 19ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/js-base64 24ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/yargs-parser 21ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/smart-buffer 8ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/ip-address 10ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/safe-buffer 18ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/string_decoder 17ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/process-nextick-args 17ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/imurmurhash 11ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/spdx-license-ids 16ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/spdx-exceptions 16ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/brace-expansion 13ms (cache hit)
+npm verb reify failed optional dependency C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5\node_modules\fsevents
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 645ms
+npm WARN deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+npm WARN deprecated npmlog@6.0.2: This package is no longer supported.
+npm WARN deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm WARN deprecated glob@8.1.0: Glob versions prior to v9 are no longer supported
+npm WARN deprecated are-we-there-yet@3.0.1: This package is no longer supported.
+npm WARN deprecated gauge@4.0.4: This package is no longer supported.
+npm WARN deprecated node-sass@9.0.0: Node Sass is no longer supported. Please use `sass` or `sass-embedded` instead.
+npm info run node-sass@9.0.0 install node_modules/node-sass node scripts/install.js
+npm info run node-sass@9.0.0 install { code: 0, signal: null }
+npm info run node-sass@9.0.0 postinstall node_modules/node-sass node scripts/build.js
+npm info run node-sass@9.0.0 postinstall { code: 1, signal: null }
+npm WARN cleanup Failed to remove some directories [
+npm WARN cleanup   [
+npm WARN cleanup     'C:\\Users\\clairu\\SDSU\\Year2\\CS648\\Module5\\Assignment-5\\node_modules\\@npmcli',
+npm WARN cleanup     [Error: EPERM: operation not permitted, rmdir 'C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5\node_modules\@npmcli\fs\node_modules'] {
+npm WARN cleanup       errno: -4048,
+npm WARN cleanup       code: 'EPERM',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: 'C:\\Users\\clairu\\SDSU\\Year2\\CS648\\Module5\\Assignment-5\\node_modules\\@npmcli\\fs\\node_modules'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     'C:\\Users\\clairu\\SDSU\\Year2\\CS648\\Module5\\Assignment-5\\node_modules\\stdout-stream',
+npm WARN cleanup     [Error: EPERM: operation not permitted, rmdir 'C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5\node_modules\stdout-stream\node_modules\readable-stream'] {
+npm WARN cleanup       errno: -4048,
+npm WARN cleanup       code: 'EPERM',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: 'C:\\Users\\clairu\\SDSU\\Year2\\CS648\\Module5\\Assignment-5\\node_modules\\stdout-stream\\node_modules\\readable-stream'
+npm WARN cleanup     }
+npm WARN cleanup   ]
+npm WARN cleanup ]
+npm verb stack Error: command failed
+npm verb stack     at ChildProcess.<anonymous> (C:\Users\clairu\AppData\Roaming\nvm\v20.11.1\node_modules\npm\node_modules\@npmcli\promise-spawn\lib\index.js:53:27)
+npm verb stack     at ChildProcess.emit (node:events:518:28)
+npm verb stack     at maybeClose (node:internal/child_process:1105:16)
+npm verb stack     at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+npm verb pkgid node-sass@9.0.0
+npm verb cwd C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5
+npm verb Windows_NT 10.0.26100
+npm verb node v20.11.1
+npm verb npm  v10.2.4
+npm ERR! code 1
+npm ERR! path C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5\node_modules\node-sass
+npm ERR! command failed
+npm ERR! command C:\WINDOWS\system32\cmd.exe /d /s /c node scripts/build.js
+npm ERR! Building: C:\Program Files\nodejs\node.exe C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5\node_modules\node-gyp\bin\node-gyp.js rebuild --verbose --libsass_ext= --libsass_cflags= --libsass_ldflags= --libsass_library=
+npm ERR! gyp info it worked if it ends with ok
+npm ERR! gyp verb cli [
+npm ERR! gyp verb cli   'C:\\Program Files\\nodejs\\node.exe',
+npm ERR! gyp verb cli   'C:\\Users\\clairu\\SDSU\\Year2\\CS648\\Module5\\Assignment-5\\node_modules\\node-gyp\\bin\\node-gyp.js',
+npm ERR! gyp verb cli   'rebuild',
+npm ERR! gyp verb cli   '--verbose',
+npm ERR! gyp verb cli   '--libsass_ext=',
+npm ERR! gyp verb cli   '--libsass_cflags=',
+npm ERR! gyp verb cli   '--libsass_ldflags=',
+npm ERR! gyp verb cli   '--libsass_library='
+npm ERR! gyp verb cli ]
+npm ERR! gyp info using node-gyp@8.4.1
+npm ERR! gyp info using node@20.11.1 | win32 | x64
+npm ERR! gyp verb command rebuild []
+npm ERR! gyp verb command clean []
+npm ERR! gyp verb clean removing "build" directory
+npm ERR! gyp verb command configure []
+npm ERR! gyp verb find Python Python is not set from command line or npm configuration
+npm ERR! gyp verb find Python Python is not set from environment variable PYTHON
+npm ERR! gyp verb find Python checking if "python3" can be used
+npm ERR! gyp verb find Python - executing "python3" to get executable path
+npm ERR! gyp verb find Python - "python3" is not in PATH or produced an error
+npm ERR! gyp verb find Python checking if "python" can be used
+npm ERR! gyp verb find Python - executing "python" to get executable path
+npm ERR! gyp verb find Python - executable path is "C:\Python312\python.exe"
+npm ERR! gyp verb find Python - executing "C:\Python312\python.exe" to get version
+npm ERR! gyp verb find Python - version is "3.12.2"
+npm ERR! gyp info find Python using Python version 3.12.2 found at "C:\Python312\python.exe"
+npm ERR! gyp verb get node dir no --target version specified, falling back to host node version: 20.11.1
+npm ERR! gyp verb command install [ '20.11.1' ]
+npm ERR! gyp verb install input version string "20.11.1"
+npm ERR! gyp verb install installing version: 20.11.1
+npm ERR! gyp verb install --ensure was passed, so won't reinstall if already installed
+npm ERR! gyp verb install version not already installed, continuing with install 20.11.1
+npm ERR! gyp verb ensuring nodedir is created C:\Users\clairu\AppData\Local\node-gyp\Cache\20.11.1
+npm ERR! gyp verb created nodedir C:\Users\clairu\AppData\Local\node-gyp\Cache\20.11.1
+npm ERR! gyp http GET https://nodejs.org/download/release/v20.11.1/node-v20.11.1-headers.tar.gz
+npm ERR! gyp WARN install got an error, rolling back install
+npm ERR! gyp verb command remove [ '20.11.1' ]
+npm ERR! gyp verb remove using node-gyp dir: C:\Users\clairu\AppData\Local\node-gyp\Cache
+npm ERR! gyp verb remove removing target version: 20.11.1
+npm ERR! gyp verb remove removing development files for version: 20.11.1
+npm ERR! gyp ERR! configure error 
+npm ERR! gyp ERR! stack FetchError: request to https://nodejs.org/download/release/v20.11.1/node-v20.11.1-headers.tar.gz failed, reason: unable to get local issuer certificate
+npm ERR! gyp ERR! stack     at ClientRequest.<anonymous> (C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5\node_modules\node-gyp\node_modules\minipass-fetch\lib\index.js:110:14)
+npm ERR! gyp ERR! stack     at ClientRequest.emit (node:events:518:28)
+npm ERR! gyp ERR! stack     at TLSSocket.socketErrorListener (node:_http_client:495:9)
+npm ERR! gyp ERR! stack     at TLSSocket.emit (node:events:530:35)
+npm ERR! gyp ERR! stack     at emitErrorNT (node:internal/streams/destroy:169:8)
+npm ERR! gyp ERR! stack     at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+npm ERR! gyp ERR! stack     at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+npm ERR! gyp ERR! System Windows_NT 10.0.26100
+npm ERR! gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\clairu\\SDSU\\Year2\\CS648\\Module5\\Assignment-5\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild" "--verbose" "--libsass_ext=" "--libsass_cflags=" "--libsass_ldflags=" "--libsass_library="
+npm ERR! gyp ERR! cwd C:\Users\clairu\SDSU\Year2\CS648\Module5\Assignment-5\node_modules\node-sass
+npm ERR! gyp ERR! node -v v20.11.1
+npm ERR! gyp ERR! node-gyp -v v8.4.1
+npm ERR! gyp ERR! not ok 
+npm ERR! Build failed with error code: 1
+npm verb exit 1
+npm verb unfinished npm timer reify 1758691385219
+npm verb unfinished npm timer reify:build 1758691389700
+npm verb unfinished npm timer build 1758691389700
+npm verb unfinished npm timer build:deps 1758691389700
+npm verb unfinished npm timer build:run:postinstall 1758691390525
+npm verb unfinished npm timer build:run:postinstall:node_modules/node-sass 1758691390525
+npm verb code 1
+
+npm ERR! A complete log of this run can be found in: C:\Users\clairu\AppData\Local\npm-cache\_logs\2025-09-24T05_23_04_752Z-debug-0.log

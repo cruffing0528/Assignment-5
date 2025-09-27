@@ -1,0 +1,27 @@
+@import 'mixins';
+@import 'variables';
+
+figure {
+    @include logo(400px, 190px, $vecta-logo);
+}
+
+nav {
+    @include nav-box();
+    ul {
+        list-style-type: none;
+        margin-top: 95px;
+        li {
+            display: inline;
+            font-size: 0.8em;
+            margin-right: 10px;
+            a {
+                color: #E65C43;
+                text-decoration: none;
+                letter-spacing: -0.01em;
+                &:hover {
+                    color: #FFF;
+                }
+            }
+        }
+    }
+}

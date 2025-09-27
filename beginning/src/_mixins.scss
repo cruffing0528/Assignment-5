@@ -1,0 +1,37 @@
+@mixin logo($w, $h, $image) {
+    width: $w;
+    height: $h; 
+    background: $image no-repeat 0 50px;
+    float: left;
+    display: block;
+    margin: 0;
+    $added-padding: $h * 0.05;
+    padding-top: $added-padding;
+}
+
+@mixin nav-box($w: 540px, $h: 190px) {
+    width: $w;
+    height: $h;
+    float: left; 
+    text-align: right;
+}
+
+@mixin header-box($padding-top: 40px, $text-align: center, $clear: both) {
+  width: inherit;
+  clear: $clear;
+  text-align: $text-align;
+  padding-top: $padding-top;
+}
+
+@mixin footer-box($black, $white, $height: 120px, $padding-top: 50px) {
+  width: 100%;
+  height: $height;
+  background: $black;
+  text-align: center;
+  color: $white;
+  padding-top: $padding-top;
+}
+
+@mixin social-images($image, $x: 0, $y: 0) {
+  background: $image $x $y;
+}

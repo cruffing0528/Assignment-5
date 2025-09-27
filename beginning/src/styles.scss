@@ -1,0 +1,48 @@
+@import "navigation";
+@import "variables";
+@import "content";
+@import "footer";
+@import "mixins";
+
+
+body {
+    font-family: $font;
+    font-size: 1em;
+    line-height: 2em;
+    background: url('../images/bg.gif') $white repeat-x;
+    margin: 0;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+header {
+    @include header-box(40px, center, both);
+    img {
+        max-width: 100%;
+        height: auto;
+    } 
+    h1 {
+        color: #E65C43;
+        font-weight: 100;
+        font-size: 4em;
+        line-height: 0;
+    }
+    h2 {
+        color: #FFF;
+        font-weight: 900;
+        font-size: 2.5em;
+        line-height: 0;
+        margin-bottom: 70px;
+    }
+    h3 {
+        color: #666;
+        font-weight: 400;
+        font-size: 2em;
+        line-height: 0;
+        margin-bottom: 50px;
+    }
+}
